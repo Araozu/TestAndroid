@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">L\'Assiete</string>
+    <string name="descripcion_menu">Menú</string>
+
+    <!-- Texto para la actividad login_principal -->
+    <string name="login__iniciar_sesion_google">Iniciar sesion con Google</string>
+    <string name="login__iniciar_sesion_correo">Correo electrónico</string>
+    <string name="login__iniciar_sesion_contrasena">Contraseña</string>
+    <string name="descripcion_titulo">Logo</string>
+    <string name="login__imagen_descripcion">Imagen principal</string>
+    <string name="login__boton_iniciar_sesion">Iniciar Sesión</string>
+
+    <!-- Texto para la actividad activity_main (carrito) -->
+    <string name="imagen__descripcion">Plato frances</string>
+    <string name="imagen__boton_carrito">Añadir al carrito</string>
+
+    <string name="imagen1__descripcion">Sopa tradicional hecha con cebolla y carne</string>
+    <string name="imagen1__precio">Precio: 20 S/.</string>
+    <string name="imagen2__descripcion">Pollo cocinado con vino, hongos, carne de cerdo y ajo</string>
+    <string name="imagen2__precio">Precio: 50 S/.</string>
+    <string name="imagen3__descripcion">Filete cocinado en vino, sasonado con especias</string>
+    <string name="imagen3__precio">Precio: 30 S/.</string>
+    <string name="imagen4__descripcion">Guiso con alubias blancas o frijoles acompañadas de carne de diferentes animales.</string>
+    <string name="imagen4__precio">Precio: 22 S/.</string>
+
+    <!-- Texto para el Navigation Drawer -->
+    <string name="navigation_drawer_open">Abrir menú lateral</string>
+    <string name="navigation_drawer_close">Cerrar menú lateral</string>
+    <string name="nav_header_desc">Cabecera</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="nav_draw_platos">Platos</string>
+    <string name="nav_draw_carrito">Carrito</string>
+    <string name="nav_draw_mi_cuenta">Mis pedidos</string>
+
+    <string name="nav_draw_admin">Administrador</string>
+    <string name="nav_draw_historial_pedidos">Historial de pedidos</string>
+
+    <!-- Texto para el carrito -->
+    <string name="carrito_precio1">Cantidad: 3, total: 60 S/.</string>
+    <string name="carrito_precio2">Cantidad: 2, total: 100 S/.</string>
+    <string name="carrito_comprar">Completar la Transacción</string>
+
+    <!-- Texto para el historial de compras -->
+    <string name="historial_titulo">Historial de compras</string>
+    <string name="historial_cantidad1">50 compras</string>
+    <string name="historial_cantidad2">20 compras</string>
+    <string name="historial_cantidad3">38 compras</string>
+    <string name="historial_cantidad4">72 compras</string>
+
+    <!-- Texto para Mis pedidos-->
+    <string name="mi_pedido_boton_confirmar">Recibí mi pedido</string>
+    <string name="mi_pedido_boton_rechazar">Pedido sin llegar</string>
+
+</resources>

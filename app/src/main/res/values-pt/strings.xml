@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L\'Assiete</string>
+    <string name="descripcion_menu">Cardápio</string>
+    <string name="login__iniciar_sesion_correo">Correio eletrônico</string>
+    <string name="login__iniciar_sesion_contrasena">Senha</string>
+    <string name="descripcion_titulo">logótipo</string>
+    <string name="login__imagen_descripcion">Imagem principal</string>
+    <string name="login__boton_iniciar_sesion">Iniciar sessão</string>
+    <string name="imagen__descripcion">Prato francês</string>
+    <string name="imagen__boton_carrito">Adicionar ao carrinho</string>
+    <string name="imagen1__descripcion">Sopa tradicional feita com cebola e carne</string>
+    <string name="imagen1__precio">Preço: 20 S/..</string>
+    <string name="imagen2__precio">Preço: 50 S/..</string>
+    <string name="imagen3__precio">Preço: 30 S/..</string>
+    <string name="imagen4__precio">Preço: 22 S/..</string>
+    <string name="imagen2__descripcion">Frango cozido com vinho, cogumelos, carne de porco e alho</string>
+    <string name="imagen3__descripcion">Bife cozido em vinho, temperado com especiarias</string>
+    <string name="imagen4__descripcion">Ensopado com feijão branco ou feijão acompanhado de carne de diferentes animais.</string>
+    <string name="navigation_drawer_open">Menu lateral aberto</string>
+    <string name="navigation_drawer_close">Fechar o menu lateral</string>
+    <string name="nav_header_desc">Cabeçalho</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="nav_draw_platos">Pratos</string>
+    <string name="nav_draw_carrito">Carrinho</string>
+    <string name="login__iniciar_sesion_google">Faça o login com o Google</string>
+    <string name="nav_draw_mi_cuenta">Minhas ordens</string>
+    <string name="nav_draw_admin">Administrador</string>
+    <string name="nav_draw_historial_pedidos">Histórico de pedidos</string>
+    <string name="carrito_precio1">Quantidade: 3, total: 60 S /.</string>
+    <string name="carrito_precio2">"Quantidade: 2, total: 100 S /. "</string>
+    <string name="carrito_comprar">Complete a transação</string>
+    <string name="historial_titulo">Histórico de compras</string>
+    <string name="historial_cantidad1">50 compras</string>
+    <string name="historial_cantidad2">20 compras</string>
+    <string name="historial_cantidad3">38 compras</string>
+    <string name="historial_cantidad4">72 compras</string>
+    <string name="mi_pedido_boton_confirmar">Recebi meu pedido</string>
+    <string name="mi_pedido_boton_rechazar">Pedido sem chegar</string>
+</resources>

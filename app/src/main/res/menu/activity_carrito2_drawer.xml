@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/link_platos"
+            android:icon="@drawable/baseline_fastfood_black_36"
+            android:title="@string/nav_draw_platos" />
+        <item
+            android:id="@+id/link_carrito"
+            android:icon="@drawable/baseline_shopping_cart_black_36"
+            android:title="@string/nav_draw_carrito" />
+        <item
+            android:id="@+id/link_mis_pedidos"
+            android:icon="@drawable/baseline_account_circle_black_36"
+            android:title="@string/nav_draw_mi_cuenta" />
+    </group>
+
+    <item android:title="@string/nav_draw_admin">
+        <menu>
+            <item
+                android:id="@+id/link_historial_pedidos"
+                android:icon="@drawable/baseline_settings_black_36"
+                android:title="@string/nav_draw_historial_pedidos" />
+        </menu>
+    </item>
+
+</menu>
